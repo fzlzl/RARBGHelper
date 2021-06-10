@@ -1,3 +1,7 @@
+# RARBG 助手
+
+RARBG大图预览
+
 # RARBG Helper
 
 Powerful Toolbox for [RARBG](https://rarbgprx.org).
